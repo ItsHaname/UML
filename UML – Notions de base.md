@@ -77,6 +77,22 @@
 | **Intégrité** | Protège contre les pirates | 🔒 |
 | **Facilité d'emploi** | Facile à utiliser | 👶 |
 
+
+### 5. 🆚 APPROCHE ORIENTÉE OBJET vs APPROCHE FONCTIONNELLE
+#### **Approche Objet (Moderne)** ⭐
+**Pensée :** "Quels objets composent le système ?"
+
+**Un OBJET a :**
+- **🆔 Identité** → Qui il est (ex: "Client_123")
+- **📊 Attributs** → Ses caractéristiques (ex: nom, âge, solde)
+- **⚙️ Méthodes** → Ce qu'il peut faire (ex: `acheter()`, `payer()`
+  
+
+**Exemple :**
+
+📊 Fonction 1 : Calculer prix
+📊 Fonction 2 : Aﬃcher produit
+📊 Fonction 3 : Vériﬁer stock
 #### **Approche Objet (Moderne)** ⭐
 **Pensée :** "Quels objets composent le système ?"
 
@@ -86,25 +102,21 @@
 - **⚙️ Méthodes** → Ce qu'il peut faire (ex: `acheter()`, `payer()`)
 
 **Exemple dans un magasin :**
----
-
-### 5. 🆚 APPROCHE ORIENTÉE OBJET vs APPROCHE FONCTIONNELLE
-
-#### **Approche Fonctionnelle (Ancienne)**
-**Pensée :** "Quelles fonctions doit faire le logiciel ?"
-
-- D'abord on trouve les fonctions
-- Ensuite on organise les données
-
-**Exemple :**
-📊 Fonction 1 : Calculer prix
-📊 Fonction 2 : Aﬃcher produit
-📊 Fonction 3 : Vériﬁer stock
-
 👤 Objet "Client" : nom, argent, peut acheter()
 📦 Objet "Produit" : prix, quantité, peut êtreVendu()
 💰 Objet "Caisse" : recette, peut encaisser()
+text
 
+
+**Avantage :** Plus proche de la réalité, plus facile à comprendre
+
+---
+
+<div align="center">
+
+**✨ UML : Parce qu'un bon plan vaut mieux qu'un long discours !**
+
+</div>
 
 
 
